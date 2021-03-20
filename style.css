@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;   
+    background-color: coral;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Roboto', sans-serif;  
+    text-align: center; 
+    font-size: 30px;
+}
+
+a {
+    color:black;
+    font: helvetica arial;
+}
+
+.foto_uvod {
+    width: 25%;
+    border-radius: 50%;
+    border: 10px dotted blue;    
+}
